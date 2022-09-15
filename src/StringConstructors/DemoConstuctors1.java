@@ -1,6 +1,6 @@
 package StringConstructors;
 
-public class DemoConstuctors {
+public class DemoConstuctors1 {
 	public static void main(String[] args) {
         // Constructor 1.
 		//Create empty string  object , not null String object 
