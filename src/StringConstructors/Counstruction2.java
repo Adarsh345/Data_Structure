@@ -14,6 +14,14 @@ public class Counstruction2 {
 		System.out.println(s2);
 		System.out.println(s1.equals(s2)); //true
 		System.out.println(s1 == s2);      // false
+		
+		//Test case 2 
+		
+		String s3 = new String("bbc"); 
+		String s4 = s3; 
+		System.out.println(s3.equals(s4)); // true
+		System.out.println(s4 == s3);      // true
+		
 	}	
 
 }
