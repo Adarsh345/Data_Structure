@@ -6,7 +6,7 @@ public class Constructor4 {
 		
 		StringBuilder stringBuilder = new StringBuilder("this is StringBuilderObject"); 
 		String string = new String(stringBuilder);
-		System.out.println("StringBuilder object contained from string object /n"+string);
+		System.out.println("StringBuilder object contained from string object "+string);
 		
 	}
 }
